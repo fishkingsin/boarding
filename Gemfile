@@ -27,7 +27,7 @@ gem "loofah", ">= 2.2.3"
 
 gem 'jquery-rails'
 
-gem 'fastlane', '>= 2.126.0', '< 3.0.0'
+gem 'fastlane', '>= 2.210.1', '< 3.0.0'
 
 gem 'bootstrap-sass', '~> 3.4.1'
 
@@ -55,3 +55,5 @@ group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
 end
+
+gem 'pry'
